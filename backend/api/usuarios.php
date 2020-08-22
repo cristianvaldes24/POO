@@ -28,6 +28,7 @@
             echo json_encode($resultado);
         break;
         case 'DELETE':
+            Usuario::eliminarUsuario($_GET['id']);
             $resultado["mensaje"] = "Eliminar el usuario con el id: ". $_GET['id'];
             echo json_encode($resultado);
         break;

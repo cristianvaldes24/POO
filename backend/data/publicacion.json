@@ -1,0 +1,45 @@
+[{
+    "id":1,
+    "nombre":"Publicacion 1",
+    "urlImagen":"../frontend/imagenes/1.jpg"
+},
+{
+    "id":2,
+    "nombre":"Publicacion 2",
+    "urlImagen":"../frontend/imagenes/2.jpg"
+},
+{
+    "id":3,
+    "nombre":"Publicacion 3",
+    "urlImagen":"../frontend/imagenes/3.jpg"
+},
+{
+    "id":4,
+    "nombre":"Publicacion 4",
+    "urlImagen":"../frontend/imagenes/4.jpg"
+},
+{
+    "id":5,
+    "nombre":"Publicacion 5",
+    "urlImagen":"../frontend/imagenes/5.jpg"
+},
+{
+    "id":6,
+    "nombre":"Publicacion 6",
+    "urlImagen":"../frontend/imagenes/6.jpg"
+},
+{
+    "id":7,
+    "nombre":"Publicacion 7",
+    "urlImagen":"../frontend/imagenes/7.jpg"
+},
+{
+    "id":8,
+    "nombre":"Publicacion 8",
+    "urlImagen":"../frontend/imagenes/8.jpg"
+},
+{
+    "id":9,
+    "nombre":"Publicacion 9",
+    "urlImagen":"../frontend/imagenes/9.jpg"
+}]

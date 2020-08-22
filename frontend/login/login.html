@@ -19,13 +19,15 @@
                     <img src="../imagenes/icon.png" style="margin-left: 45%;">
                     <p> Te damos la bienvenida a Pinterest</p>
                     <p>Encunetra nuevas ideas para experimentar</p>
-                    <input id="inputUsuario" type="text" class="form-control rounded-pill" placeholder="Correo electronico">
-                    <input id="inputContraseña" type="text" class="form-control" placeholder="Crear contraseña">
-                    <input id="inputEdad" type="text" class="form-control" placeholder="Edad">
-                    <button type="button" class="btn btn-danger rounded-pill rounded-lg" >Continuar</button>
+                    <input id="inputCorreo" type="text" class="form-control rounded-pill" placeholder="Correo electronico">
+                    <input id="inputContraseña" type="text" class="form-control rounded-pill" placeholder="Crear contraseña">
+                    <input id="inputEdad" type="text" class="form-control rounded-pill" placeholder="Edad">
+                    <button type="button" class="btn btn-danger rounded-pill rounded-lg" onclick="guardar()" >Continuar</button>
                 </form>
             </div>
        </div>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="js/controlador.js"></script>
 </body>
 </html>
